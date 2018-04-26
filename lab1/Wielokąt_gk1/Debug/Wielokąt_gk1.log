@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Wielokąt_gk1.cpp
+c:\users\szymon\source\repos\wielokąt_gk1\wielokąt_gk1\wielokąt_gk1.cpp(39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\szymon\source\repos\wielokąt_gk1\wielokąt_gk1\wielokąt_gk1.cpp(38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\szymon\source\repos\wielokąt_gk1\wielokąt_gk1\wielokąt_gk1.cpp(119): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Wielokąt_gk1.vcxproj -> C:\Users\Szymon\source\repos\Wielokąt_gk1\Debug\Wielokąt_gk1.exe
