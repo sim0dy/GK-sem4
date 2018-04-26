@@ -1,6 +1,0 @@
-﻿  lab2_zad2.cpp
-c:\users\szymon\source\repos\lab2_zad2\lab2_zad2\lab2_zad2.cpp(77): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\szymon\source\repos\lab2_zad2\lab2_zad2\lab2_zad2.cpp(78): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\szymon\source\repos\lab2_zad2\lab2_zad2\lab2_zad2.cpp(99): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\szymon\source\repos\lab2_zad2\lab2_zad2\lab2_zad2.cpp(100): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-  lab2_zad2.vcxproj -> C:\Users\Szymon\source\repos\lab2_zad2\Debug\lab2_zad2.exe
