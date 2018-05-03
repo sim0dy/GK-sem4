@@ -1,0 +1,9 @@
+﻿  lab3_zad1.cpp
+c:\users\szymon\source\repos\lab3_zad1\lab3_zad1\lab3_zad1.cpp(42): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\szymon\source\repos\lab3_zad1\lab3_zad1\lab3_zad1.cpp(149): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\szymon\source\repos\lab3_zad1\lab3_zad1\lab3_zad1.cpp(154): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\szymon\source\repos\lab3_zad1\lab3_zad1\lab3_zad1.cpp(215): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\szymon\source\repos\lab3_zad1\lab3_zad1\lab3_zad1.cpp(217): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\szymon\source\repos\lab3_zad1\lab3_zad1\lab3_zad1.cpp(219): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\szymon\source\repos\lab3_zad1\lab3_zad1\lab3_zad1.cpp(221): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  lab3_zad1.vcxproj -> C:\Users\Szymon\source\repos\lab3_zad1\Debug\lab3_zad1.exe
