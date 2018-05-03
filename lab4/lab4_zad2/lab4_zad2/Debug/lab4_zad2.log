@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  lab4_zad2.cpp
+c:\users\szymon\source\repos\lab4_zad2\lab4_zad2\targa.h(6): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\szymon\source\repos\lab4_zad2\lab4_zad2\targa.h(6): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+c:\users\szymon\source\repos\lab4_zad2\lab4_zad2\lab4_zad2.cpp(253): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\szymon\source\repos\lab4_zad2\lab4_zad2\lab4_zad2.cpp(258): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\szymon\source\repos\lab4_zad2\lab4_zad2\lab4_zad2.cpp(288): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\szymon\source\repos\lab4_zad2\lab4_zad2\lab4_zad2.cpp(290): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+  lab4_zad2.vcxproj -> C:\Users\Szymon\source\repos\lab4_zad2\Debug\lab4_zad2.exe

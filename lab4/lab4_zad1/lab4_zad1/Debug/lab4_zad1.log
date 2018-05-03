@@ -1,0 +1,4 @@
+﻿  lab4_zad1.cpp
+c:\users\szymon\source\repos\lab4_zad1\lab4_zad1\targa.h(6): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\szymon\source\repos\lab4_zad1\lab4_zad1\targa.h(6): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  lab4_zad1.vcxproj -> C:\Users\Szymon\source\repos\lab4_zad1\Debug\lab4_zad1.exe
